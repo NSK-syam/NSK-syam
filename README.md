@@ -8,7 +8,7 @@ Software engineer who ships products end-to-end. I love building at the intersec
 
 About Me
 
-- 🔭 I'm currently working on **[BingeItBro](https://bingeItBro.com)** — a web app for discovering & tracking shows, movies, and anime · and **[SearchOutfit](https://searchoutfit.com)** · and an Instagram outfit-to-shoppable-links product
+- 🔭 I'm currently working on **[BingeItBro](https://bingeItBro.com)** — a web app for discovering & tracking shows, movies, and anime · and **[SearchOutfit](https://searchoutfit.com)**  an      Instagram outfit-to-shoppable-links product
 - 🤝 I'm looking to collaborate on **AI-powered consumer products, full-stack SaaS, and anything at the edge of content & commerce**
 - 🌱 I'm currently learning **AI/ML engineering, LLM tooling, and computer vision pipelines**
 - 💬 Ask me about **Node.js · AWS Lambda · Python · Docker · Supabase · Next.js · Airflow · PySpark**
