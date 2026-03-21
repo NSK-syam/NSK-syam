@@ -30,7 +30,7 @@ About Me
 | Project | Description | Stack |
 |---|---|---|
 | [BingeItBro](https://bingeItBro.com) | Discover & track shows, movies, anime | Next.js · Supabase · Stripe |
-| searchoutfit.com | Instagram outfit → shoppable links | Next.js · Supabase |
+| [SearchOutfit](https://searchoutfit.com) | Instagram outfit → shoppable links | Next.js · Supabase |
 
 ---
 
