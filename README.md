@@ -2,7 +2,7 @@
 
 I'm Syam 👋
 
-Backend & full-stack engineer who ships products end-to-end. I love building at the intersection of AI, content discovery, and consumer tech.
+Software engineer who ships products end-to-end. I love building at the intersection of AI, content discovery, and consumer tech.
 
 ---
 
