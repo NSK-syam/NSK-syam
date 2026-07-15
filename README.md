@@ -1,27 +1,29 @@
 # 💫 About Me
 
-I'm Syam 👋
-
-Software engineer who ships products end-to-end. I love building at the intersection of AI, content discovery, and consumer tech.
-
+Hi, I'm Syam 👋
+AI/LLM Engineer and full-stack software engineer who builds and ships production products end to end. I enjoy working at the intersection of generative AI, content discovery, retrieval systems, and consumer technology.
 ---
 
 About Me
+🔭 I’m currently building SearchOutfit, a multimodal AI product that converts outfit screenshots and Instagram posts into ranked, shoppable product matches.
 
-- 🔭 I'm currently working on **[BingeItBro](https://bingeItBro.com)** — a web app for discovering & tracking shows, movies, and anime · and **[SearchOutfit](https://searchoutfit.com)**  an      Instagram outfit-to-shoppable-links product
-- 🤝 I'm looking to collaborate on **AI-powered consumer products, full-stack SaaS, and anything at the edge of content & commerce**
-- 🌱 I'm currently learning **AI/ML engineering, LLM tooling, and computer vision pipelines**
-- 💬 Ask me about **Node.js · AWS Lambda · Python · Docker · Supabase · Next.js · Airflow · PySpark**
-- ⚡ Fun fact: I've independently shipped two live products with real users — a web app and a mobile app — while building solo
+🎬 I built BingeItBro, a personalized entertainment discovery platform serving 150 users, with recommendations, watchlists, friend search, and group-watch features.
 
+🤝 I’m interested in collaborating on AI-powered consumer products, agentic systems, full-stack SaaS, content discovery, and commerce technology.
+
+🌱 I’m currently expanding my expertise in LLM evaluation, RAG optimization, AI agents, multimodal AI, and production MLOps.
+
+💬 Ask me about Python, LangChain, LangGraph, FastAPI, Node.js, Next.js, Supabase, PostgreSQL, Docker, AWS, and Azure.
+
+⚡ Fun fact: I independently built and launched two production products with real users, owning everything from product design and AI workflows to backend infrastructure and deployment.
 ---
 
-🛠 Tech Stack
-
-**Backend:** Node.js · Python · AWS Lambda · Docker
-**Frontend:** Next.js · React
-**Data:** Airflow · PySpark · Supabase
-**AI/ML:** Claude API · SerpAPI · Google Lens
+What I Work With
+AI/ML: LLMs, RAG, AI agents, semantic search, embeddings, prompt engineering, PyTorch, TensorFlow
+Backend: Python, FastAPI, Node.js, REST APIs, PostgreSQL, Supabase
+Frontend: Next.js, React, TypeScript
+Cloud & DevOps: AWS, Azure, Docker, GitHub Actions, CI/CD
+Data: SQL, Pandas, NumPy, PySpark, Airflow
 
 ---
 
@@ -36,7 +38,7 @@ About Me
 
 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nsk_syam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syam-kumar-nune-3b9165229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@487syam) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syam31158@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nsk_syam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syam-kumar-nune) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@487syam) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syam31158@gmail.com)
 
 ---
 
