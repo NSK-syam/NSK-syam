@@ -16,7 +16,6 @@ About Me
 💬 Ask me about Python, LangChain, LangGraph, FastAPI, Node.js, Next.js, Supabase, PostgreSQL, Docker, AWS, and Azure.
 
 ⚡ Fun fact: I independently built and launched two production products with real users, owning everything from product design and AI workflows to backend infrastructure and deployment.
----
 
 What I Work With
 AI/ML: LLMs, RAG, AI agents, semantic search, embeddings, prompt engineering, PyTorch, TensorFlow
